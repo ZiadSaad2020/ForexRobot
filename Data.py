@@ -85,3 +85,12 @@ while requesting:
         
     except Exception as e:
         print("Error: "+ str(e))
+        
+        
+
+
+class getData():
+    def __init__(self):
+        pass
+    
+    
