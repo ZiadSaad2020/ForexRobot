@@ -4,5 +4,4 @@ csv_file = 'historicalData.txt'
 
 order_url = 'https://api-fxpractice.oanda.com/v3/accounts/101-002-14506410-001/orders'
 
-ziad = 'test'
 
