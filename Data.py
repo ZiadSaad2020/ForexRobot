@@ -88,9 +88,13 @@ while requesting:
         
         
 
-
-class getData():
-    def __init__(self):
+class getData:
+    def __init__(self,instruments,interval):
+        self.intruments = instruments
+        self.interval = interval
+    
+    def getData(self):
+        
         pass
     
     
