@@ -5,3 +5,4 @@ analyze response data
 send order conditionally
 list all current orders
 close order conditionally
+
